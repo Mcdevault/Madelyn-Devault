@@ -23,6 +23,16 @@
         "id": "https://Mcdevault.github.io/Madelyn-Devault/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 809.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://Mcdevault.github.io/Madelyn-Devault/annotations/meshes-of-the-afternoon-canvas-1-framing.json",
+            "label": {
+              "none": ["Framing"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://Mcdevault.github.io/Madelyn-Devault/meshes-of-the-afternoon/canvas-1/paintings",
